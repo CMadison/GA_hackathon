@@ -1,8 +1,8 @@
   .navbar wrapper {
       position: relative;
   }
-  #section1 {padding-top:50px;height:500px;color: #4a4a4a; background-color: #fff;}
-  #section2 {padding-top:50px;height:500px;color: #4a4a4a; background-color: #fff;}
+  #section1 {padding-top:15px;height:500px;color: #4a4a4a; background-color: #fff;}
+  #section2 {padding-top:50px;height:200px;color: #4a4a4a; background-color: #fff;}
   #section3 {padding-top:50px;height:500px;color: #4a4a4a; background-color: #fff;}
   #section41 {padding-top:50px;height:500px;color: #4a4a4a; background-color: #fff;}
   #section42 {padding-top:50px;height:500px;color: #4a4a4a; background-color: #fff;}
@@ -14,12 +14,16 @@
       max-height: 500px;
   }
 #maincar {
-  margin-top: -50px;
+  margin-top: -100px;
   margin-left: -30px;
   width: 1000px;
 
 }
-#imgcar {
-  max-width: 5px;
 
+.bio {
+  text-align: center;
+}
+
+.thumbnail {
+  display: inline-block;
 }
