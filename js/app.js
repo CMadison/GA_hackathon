@@ -1,5 +1,4 @@
-$(document).ready(function() {
-
+$('document').ready(function() {
+  var msg = $('#message');
+  msg.autosize();
 });
-
-
